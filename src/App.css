@@ -1,0 +1,31 @@
+/* react-day-picker */
+.rdp-nav{
+  position: absolute;
+  width: 100%;
+}
+.rdp-button_previous{
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+.rdp-button_next{
+  position: absolute;
+  top: 5px;
+  right: 0;
+}
+.rdp-month_caption{
+  justify-content: center;
+}
+.rdp-month_caption .rdp-caption_label{
+  font-size: 24px;
+}
+.rdp-chevron{
+  fill: hotpink;
+}
+.rdp-day.rdp-today,
+.rdp-day.rdp-selected{
+  color: hotpink;
+}
+.rdp-day.rdp-selected > button{
+  border-color: hotpink;
+}
