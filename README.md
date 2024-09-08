@@ -13,7 +13,7 @@ DB는 웹 브라우저의 기본적으로 내장되어 있는 DB인 Web Storage�
 To do list에서는 다르게 Tailwind CSS를 사용하여 스타일을 구현하였습니다.
 
 #### 실행방법
-URL : 
+URL : https://react-calendar-weld.vercel.app/
 
 #### Components
 경로 : src/components
