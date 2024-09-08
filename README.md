@@ -8,6 +8,8 @@ Calendar는 DayPicker 라이브러리를 활용하였습니다. (URL : https://d
 
 상태 관리 시 useState, useReducer 등 React에서 제공하는 Hooks을 사용하였습니다.
 
+DB는 웹 브라우저의 기본적으로 내장되어 있는 DB인 Web Storage를 활용하여 제작 하였습니다.
+
 To do list에서는 다르게 Tailwind CSS를 사용하여 스타일을 구현하였습니다.
 
 #### 실행방법
