@@ -29,3 +29,10 @@
 .rdp-day.rdp-selected > button{
   border-color: hotpink;
 }
+
+@media (min-width: 640px){
+  .rdp-month_grid{
+    width: 500px;
+    height: 100%;
+  }
+}
